@@ -14,10 +14,10 @@ def max_co():
 
 
 def main():
-  if max_co() =! None:
-    l,h = max_co()
+  dimen = max_co()
+  if dimen is not None:
+    l,h = dimen
     print(f"So the video has {l}x{h} res")
-
 
 
 
