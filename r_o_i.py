@@ -13,8 +13,10 @@ def max_co():
 
 
 
-max_co()
-print("So the video has {max_x}x{max_y} res")
+def main():
+  if max_co() =! None:
+    l,h = max_co()
+    print(f"So the video has {l}x{h} res")
 
 
 
