@@ -20,6 +20,9 @@ def main():
     print(f"So the video has {l}x{h} res")
 
 
+if __name__ == "__main__":
+  main()
+
 
 
 
